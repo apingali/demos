@@ -1,4 +1,4 @@
-# Demos & Turorials for Torch7.
+# Demos & Tutorials for Torch7.
 
 All the demos/tutorials provided in this repo require Torch7 to be installed,
 as well as some extra (3rd-party) packages.
